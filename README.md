@@ -111,7 +111,7 @@ We sincerely acknowledge the organizers and contributors of the following shared
 - **HASOC 2021** – *Hate Speech and Offensive Content Identification*  
 - **HOLD-Telugu 2024** – *Hate and Offensive Language Detection in Telugu Codemixed Text*, part of **DravidianLangTech 2024**
 
-These datasets were publicly released for research purposes, enabling the multilingual expansion and benchmarking of hate speech detection for Telugu, Hindi, and English in this work. We thank the respective task organizers and the research community for supporting open and ethical NLP research.
+These datasets were publicly available for research purposes, enabling the multilingual expansion and benchmarking of hate speech detection for Telugu, Hindi, and English in this work. We thank the respective task organizers and the research community for supporting open and ethical NLP research.
 
 ---
 
