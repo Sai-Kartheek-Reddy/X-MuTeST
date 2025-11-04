@@ -67,7 +67,7 @@ To select annotators proficient in identifying hate speech and providing token-l
 - Annotators marked specific words or phrases that justified the classification (hateful/offensive/normal).
 
 #### Iterative Annotation Procedure
-<img src="https://github.com/Sai-Kartheek-Reddy/X-MuTeST/blob/main/Iterative%20Annotation.png" width="500" />  
+<img src="https://github.com/Sai-Kartheek-Reddy/X-MuTeST/blob/main/Iterative%20Annotation.png" width="800" />  
 
 #### Conflict Resolution
 - **Majority Voting:** Tokens were included in the final rationale if selected by at least **two of three annotators**, ensuring balanced representation.  
