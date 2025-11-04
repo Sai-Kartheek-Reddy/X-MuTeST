@@ -121,4 +121,48 @@ If you find this work useful in your research, please cite our paper as follows:
 
 ```bibtex
 Soon
+```
 
+In addition, please cite the original datasets that contributed to this work:
+
+#### 🗂️ HASOC 2020
+**Hate Speech and Offensive Language Identification in Tamil, Malayalam, Hindi, English, and German**  
+📄 *Proceedings of the 12th Annual Meeting of the Forum for Information Retrieval Evaluation (FIRE 2020)*  
+
+```bibtex
+@inproceedings{mandl2020overview,
+  title={Overview of the HASOC Track at FIRE 2020: Hate Speech and Offensive Language Identification in Tamil, Malayalam, Hindi, English and German},
+  author={Mandl, Thomas and Modha, Sandip and Kumar, Anand M. and Chakravarthi, Bharathi Raja},
+  booktitle={Proceedings of the 12th Annual Meeting of the Forum for Information Retrieval Evaluation},
+  pages={29--32},
+  year={2020}
+}
+```
+
+#### 🗂️ HASOC 2021
+**Hate Speech and Offensive Content Identification in English and Indo-Aryan Languages**  
+📄 *Proceedings of the 13th Annual Meeting of the Forum for Information Retrieval Evaluation (FIRE 2021)*
+
+```bibtex
+@inproceedings{modha2021overview,
+  title={Overview of the HASOC Subtrack at FIRE 2021: Hate Speech and Offensive Content Identification in English and Indo-Aryan Languages and Conversational Hate Speech},
+  author={Modha, Sandip and Mandl, Thomas and Shahi, Gautam Kishore and Madhu, Hiren and Satapara, Shrey and Ranasinghe, Tharindu and Zampieri, Marcos},
+  booktitle={Proceedings of the 13th Annual Meeting of the Forum for Information Retrieval Evaluation},
+  pages={1--3},
+  year={2021}
+}
+```
+
+#### 🗂️ HOLD-Telugu 2024
+**Hate and Offensive Language Detection in Telugu Codemixed Text (DravidianLangTech 2024)**  
+📄 *Proceedings of the Fourth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages (DravidianLangTech 2024)*
+
+```bibtex
+@inproceedings{premjith2024findings,
+  title={Findings of the shared task on hate and offensive language detection in telugu codemixed text (hold-telugu) at dravidianlangtech 2024},
+  author={Premjith, B and Chakravarthi, Bharathi Raja and Kumaresan, Prasanna Kumar and Rajiakodi, Saranya and Karnati, Sai and Mangamuru, Sai and Janakiram, Chandu},
+  booktitle={Proceedings of the Fourth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages},
+  pages={49--55},
+  year={2024}
+}
+```
