@@ -55,7 +55,7 @@ To select annotators proficient in identifying hate speech and providing token-l
 
 #### Selection Criteria
 - Annotators demonstrating high accuracy and strong rationale alignment were shortlisted.  
-- Out of 10 participants, five annotators were selected for the main task — ensuring **three annotators per language (Hindi, English, Telugu)**.  
+- Out of 10 participants, five annotators were selected for the main task — ensuring **three annotators per language (Telugu, Hindi, English)**.  
 - Annotators were incentivized with **150 hours of free GPU access** and represented diverse linguistic backgrounds.
 
 ---
