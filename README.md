@@ -7,4 +7,4 @@ Preprint available soon...
 
 # Overview of LLM-consulted Explanation Framework
 
-<img src=https://github.com/NLP-Research07/X-MuTeST/blob/main/X-Mutest.png width="1000" />
+<img src=https://github.com/Sai-Kartheek-Reddy/X-MuTeST/blob/main/X-MuTeST.png width="1000" />
