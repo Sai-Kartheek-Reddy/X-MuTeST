@@ -7,7 +7,7 @@ _Preprint available soon..._
 
 ## 🧠 About X-MuTeST
 
-**X-MuTeST** (e**X**plainable **M**ultilingual ha**T**e **S**peech de**T**ection) is a multilingual benchmark and framework designed for **explainable hate speech detection** across **Telugu, Hindi, and English**.
+**X-MuTeST** (e**X**plainable **M**ultilingual ha**Te** **S**peech de**T**ection) is a multilingual benchmark and framework designed for **explainable hate speech detection** across **Telugu, Hindi, and English**.
 
 It introduces **token-level human rationales** and a **two-stage explainability-guided model training pipeline**, integrating insights from **LLMs** and **n-gram-based attention mechanisms** to improve both **classification** and **interpretability** in under-resourced languages.
 
