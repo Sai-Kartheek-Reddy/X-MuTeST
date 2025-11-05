@@ -5,6 +5,13 @@ _Preprint available soon..._
 
 ---
 
+## Abstract
+Hate speech detection on social media faces challenges in both accuracy and explainability, especially for underexplored Indic languages. We propose a novel explainability-guided training framework, X-MuTeST (eXplainable Multilingual haTe Speech deTection), for hate speech detection that combines high-level semantic reasoning from large language models (LLMs) with traditional attention-enhancing techniques. We extend this research to Hindi and Telugu alongside English by providing benchmark human-annotated rationales for each word to justify the assigned class label. The X-MuTeST explainability method computes the difference between the prediction probabilities of the original text and those of unigrams, bigrams, and trigrams. Final explanations are computed as the union between LLM explanations and X-MuTeST explanations. We show that leveraging human rationales during training enhances both classification performance and the model’s explainability. Moreover, combining human rationales with our explainability method to refine the model’s attention yields further improvements. We evaluate explainability using Plausibility metrics such as Token-F1 and IOU-F1, and Faithfulness metrics such as Comprehensiveness and Sufficiency. By focusing on under-resourced languages, our work advances hate speech detection across diverse linguistic contexts. Our dataset includes token-level rationale annotations for 6,004 Hindi, 4,492 Telugu, and 6,334 English samples.
+
+**⚠️ Warning: This dataset contains text that is offensive and hateful in nature. It is released only for research on hate speech and content moderation. The creators do not endorse any of the views expressed in the data.**
+
+---
+
 ## 🧠 About X-MuTeST
 
 **X-MuTeST** (e**X**plainable **M**ultilingual ha**Te** **S**peech de**T**ection) is a multilingual benchmark and framework designed for **explainable hate speech detection** across **Telugu, Hindi, and English**.
