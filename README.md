@@ -104,7 +104,12 @@ These datasets were publicly available for research purposes, enabling the multi
 If you find this work useful in your research, please cite our paper as follows:
 
 ```bibtex
-Soon
+@article{rehman2026x,
+  title={X-MuTeST: A Multilingual Benchmark for Explainable Hate Speech Detection and A Novel LLM-consulted Explanation Framework},
+  author={Rehman, Mohammad Zia Ur and Kasu, Sai Kartheek Reddy and Koppula, Shashivardhan Reddy and Chirra, Sai Rithwik Reddy and Singh, Shwetank Shekhar and Kumar, Nagendra},
+  journal={arXiv preprint arXiv:2601.03194},
+  year={2026}
+}
 ```
 
 In addition, please cite the original datasets that contributed to this work:
